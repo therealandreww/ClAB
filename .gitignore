@@ -1,5 +1,5 @@
-./app
-./clab
+app
+clab
 *.slo
 *.lo
 *.o
