@@ -1,0 +1,17 @@
+./app
+./clab
+*.slo
+*.lo
+*.o
+*.obj
+*.out
+*.app
+*.mod
+*.smod
+*.lai
+*.la
+*.a
+*.lib
+*.d
+*.gch
+*.pch
